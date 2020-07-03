@@ -22,7 +22,7 @@ title: bytepack
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Minecraft 1.8.9 resourcepack.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://blapplejuice.github.io/bytepack" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
